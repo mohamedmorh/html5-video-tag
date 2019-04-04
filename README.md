@@ -1,5 +1,5 @@
 # Html5 Video Tag
 
-```Html5
+```Html
   <video src="videoName.mp4"></video>
 ```
