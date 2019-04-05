@@ -3,3 +3,7 @@
 ```Html
   <video src="videoName.mp4"></video>
 ```
+right | left
+------|-----
+this is left | this is a right
+are you sure this is right | seriously this is left
